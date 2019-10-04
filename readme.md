@@ -30,7 +30,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I have taken a class in basic Android development in the past, so this was pretty simple - especially with the video tutorials to help me whenever I got stuck. I am excited to see what the course holds for the future though!
 
 ## License
 
